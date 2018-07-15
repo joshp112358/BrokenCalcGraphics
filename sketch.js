@@ -34,7 +34,7 @@ function setup() {
 	three.position(90,100);
 	multiply = createCheckbox('x');
 	multiply.position(130,100);
-	ce = createCheckbox('CE');
+	ce = createCheckbox('.');
 	ce.position(10,120);
 	zero = createCheckbox('0');
 	zero.position(50,120);
